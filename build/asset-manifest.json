@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7cfb6250.chunk.css",
+    "main.js": "/static/js/main.aa55df66.chunk.js",
+    "main.js.map": "/static/js/main.aa55df66.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f8c10e1e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f8c10e1e.js.map",
+    "static/js/2.b8b4123d.chunk.js": "/static/js/2.b8b4123d.chunk.js",
+    "static/js/2.b8b4123d.chunk.js.map": "/static/js/2.b8b4123d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7cfb6250.chunk.css.map": "/static/css/main.7cfb6250.chunk.css.map",
+    "static/js/2.b8b4123d.chunk.js.LICENSE.txt": "/static/js/2.b8b4123d.chunk.js.LICENSE.txt",
+    "static/js/main.aa55df66.chunk.js.LICENSE.txt": "/static/js/main.aa55df66.chunk.js.LICENSE.txt",
+    "static/media/chevron-icon.acd10161.svg": "/static/media/chevron-icon.acd10161.svg",
+    "static/media/metamask-icon.3c6f4caa.svg": "/static/media/metamask-icon.3c6f4caa.svg",
+    "static/media/swappirate.c8f67db6.png": "/static/media/swappirate.c8f67db6.png",
+    "static/media/wallet-icon.1122d0eb.svg": "/static/media/wallet-icon.1122d0eb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8c10e1e.js",
+    "static/js/2.b8b4123d.chunk.js",
+    "static/css/main.7cfb6250.chunk.css",
+    "static/js/main.aa55df66.chunk.js"
+  ]
+}
